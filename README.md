@@ -50,8 +50,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgokhandemir" alt="GitHub Streak">
 </p>
 
-<!-- Add the script tag here -->
-<script src="https://tryhackme.com/badge/1919032"></script>
+<!-- Added code as a template -->
+<pre>
+&lt;!-- Add the script tag here --&gt;
+&lt;script src="https://tryhackme.com/badge/1919032"&gt;&lt;/script&gt;
+</pre>
 </body>
 </html>
+
 
