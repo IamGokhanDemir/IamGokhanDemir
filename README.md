@@ -49,3 +49,9 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgokhandemir" alt="GitHub Streak">
 </p>
+
+<!-- Add the script tag here -->
+<script src="https://tryhackme.com/badge/1919032"></script>
+</body>
+</html>
+
