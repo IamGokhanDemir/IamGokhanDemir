@@ -54,8 +54,8 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe">
 </a> 
 
-<a href="https://tryhackme.com/p/YourUsername">
+<p align="left">
 <script src="https://tryhackme.com/badge/1919032"></script>
-</a> 
+</p>
 
 
