@@ -55,7 +55,7 @@
 </a> 
 
 <p align="left">
-<script src="https://tryhackme.com/badge/1919032"></script>
+![TryHackMe Badge](https://tryhackme.com/badge/1919032)
 </p>
 
 
