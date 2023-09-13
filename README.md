@@ -50,26 +50,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgokhandemir" alt="GitHub Streak">
 </p>
 
-<style>
-  /* Center the image horizontally */
-  .center-image {
-    display: flex;
-    justify-content: center;
-  }
-
-  /* Adjust the image size */
-  .center-image img {
-    width: 300px; /* Adjust the width as needed */
-    height: auto; /* Maintain the aspect ratio */
-  }
-</style>
-
-<div class="center-image">
+<div style="text-align:center;">
   <a href="https://tryhackme.com/p/YourUsername">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe" width="300">
   </a>
 </div>
- 
+
 
 
 
