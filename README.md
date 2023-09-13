@@ -52,7 +52,7 @@
 
 <div style="text-align:center;">
   <a href="https://tryhackme.com/p/YourUsername">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe" width="500">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe" width="400">
   </a>
 </div>
 
