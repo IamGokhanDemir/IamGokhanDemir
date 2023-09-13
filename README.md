@@ -50,6 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgokhandemir" alt="GitHub Streak">
 </p>
 
-<!-- Add the script tag here -->
-```markdown
-[![TryHackMe Badge](https://tryhackme.com/badge/1919032)](https://tryhackme.com/p/YourUsername)
+<a href="https://tryhackme.com/p/YourUsername">
+  <img src="https://tryhackme.com/badge/1919032" alt="TryHackMe Badge">
+</a>
+
