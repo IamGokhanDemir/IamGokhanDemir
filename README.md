@@ -50,7 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgokhandemir" alt="GitHub Streak">
 </p>
 
-<div style="text-align:center;">
+<div style="text-align:right;">
   <a href="https://tryhackme.com/p/YourUsername">
     <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe" width="400">
   </a>
