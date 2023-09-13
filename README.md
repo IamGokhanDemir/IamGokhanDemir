@@ -52,4 +52,4 @@
 
 <!-- Add the script tag here -->
 ```markdown
-<script src="https://tryhackme.com/badge/1919032"></script>
+<img src="https://tryhackme.com/badge/1919032"></script>
