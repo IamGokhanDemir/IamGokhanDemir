@@ -38,15 +38,19 @@
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgokhandemir&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgokhandemir&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+    </td>
+    <td>
+      <a href="https://tryhackme.com/p/YourUsername">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <div style="text-align:right;">
-  <a href="https://tryhackme.com/p/YourUsername">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe" width="400">
-  </a>
-</div>
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iamgokhandemir&show_icons=true&locale=en" alt="GitHub Stats">
@@ -56,11 +60,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgokhandemir" alt="GitHub Streak">
 </p>
 
-<div style="text-align:right;">
-  <a href="https://tryhackme.com/p/YourUsername">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/GokhanDemir.png" alt="TryHackMe" width="400">
-  </a>
-</div>
 
 
 
