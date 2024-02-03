@@ -11,7 +11,7 @@
 <!-- About Me -->
 ## About Me
 
-- 🎓 Studying Cybersecurity at [BeCode](https://becode.org/).
+- 🎓 Cybersecurity at [BeCode](https://becode.org/).
 
 - 💡 Passionate about exploring new technologies and keeping the digital world safe.
 
