@@ -11,8 +11,6 @@
 <!-- About Me -->
 ## About Me
 
-- 🎓 Cybersecurity at [BeCode](https://becode.org/).
-
 - 💡 Passionate about exploring new technologies and keeping the digital world safe.
 
 - 💻 Check out my latest projects on [GitHub](https://github.com/IamGokhanDemir/Completed-BeCode-Task-Projects/tree/main/Becode%20School).
